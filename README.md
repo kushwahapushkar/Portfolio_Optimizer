@@ -78,3 +78,6 @@ Multiple Strategies – Implement risk parity, equal-weight, and Black-Litterman
 Dynamic Data – Automate with live data refresh and rolling-window optimization.
 
 Visualization Upgrade – Use Plotly/Dash for interactive frontier and allocation charts.
+
+<img width="970" height="647" alt="image" src="https://github.com/user-attachments/assets/6f515d06-183c-4c23-beed-31b086680020" />
+
